@@ -1,5 +1,6 @@
 # Contact Book API
 This is a Spring boot application with SpringDoc OpenAPI included.
+This project takes into consideration, some of the best practices when it comes to designing REST APIs.
 
 ## Requirements / Dependencies
 - Java 17
